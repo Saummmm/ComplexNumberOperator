@@ -1,3 +1,3 @@
 # ComplexNumberOperator
 
-Complex number operator with functions
+Complex number operator with a constructor function
